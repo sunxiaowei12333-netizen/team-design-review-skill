@@ -1,2 +1,2 @@
 # team-design-review-skill
-设计评审 Skill 下载
+设计稿评审 下载
